@@ -19,4 +19,5 @@ Bem vindo ao meu GitHub
   <a href="https://www.twitch.tv/cochila_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/fTeajdycr4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://x.com/CochilaBroken" target="_blank"><img src="https://img.shields.io/badge/X_(antigo_Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (antigo Twitter)" /></a>
+  <a href="https://www.linkedin.com/in/kauã-morato-0a6821354/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

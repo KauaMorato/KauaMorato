@@ -21,3 +21,8 @@ Bem vindo ao meu GitHub
   <a href="https://x.com/CochilaBroken" target="_blank"><img src="https://img.shields.io/badge/X_(antigo_Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (antigo Twitter)" /></a>
   <a href="https://www.linkedin.com/in/kauã-morato-0a6821354/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<div>
+  ![Kauã Morato's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaMorato&show_icons=true&theme=midnight-purple)
+  
+</div>

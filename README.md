@@ -23,6 +23,5 @@ Bem vindo ao meu GitHub
 </div>
 
 <div>
-  ![Kauã Morato's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaMorato&show_icons=true&theme=midnight-purple)
   
 </div>

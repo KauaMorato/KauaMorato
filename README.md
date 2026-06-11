@@ -14,7 +14,7 @@ Bem vindo ao meu GitHub
   </p>
 </div>
 
-<br>
+---
 
 <br><br>
 <img align="left" alt="Python" title="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -25,7 +25,6 @@ Bem vindo ao meu GitHub
 <img height="40" src="https://cdn.simpleicons.org/n8n/EA4B71" />
 <br><br>
 
----
 
 <div>
   <a href="https://instagram.com/kaaumorato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

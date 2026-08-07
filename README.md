@@ -9,22 +9,28 @@ Bem vindo ao meu GitHub
 
 <div>
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaMorato&show_icons=true&theme=midnight-purple"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMorato&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <a href="https://github-stats-extended.vercel.app/api?username=KauaMorato&show_icons=true&include_all_commits=true&theme=midnight-purple">
+      <img height="180em" src="https://github-stats-extended.vercel.app/api?username=KauaMorato&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+    </a>
+    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=KauaMorato&layout=compact&langs_count=4&theme=midnight-purple">
+      <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=KauaMorato&layout=compact&langs_count=4&theme=midnight-purple" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
----
 
-<br><br>
+<div>
+<br>
 <img align="left" alt="Python" title="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Godot" title="Godot" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
 <img height="40" src="https://cdn.simpleicons.org/n8n/EA4B71" />
-<br><br>
+<br>
+</div>
 
+---
 
 <div>
   <a href="https://instagram.com/kaaumorato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
